@@ -1,2 +1,3 @@
 # blurImage
 Python module that blurs image
+This utility is a simple, yet powerful Python script that applies a box blur effect to images. Leveraging the capabilities of the Pillow library, it offers an easy way to enhance your photos by blurring them with a specified intensity. Whether you're looking to soften backgrounds, create artistic effects, or simply experiment with your images, this tool provides a quick and effective solution.
